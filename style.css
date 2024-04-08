@@ -1,0 +1,55 @@
+body{
+    margin-top: 20px;
+    background-color: 	#C0C0C0;
+}
+
+header{
+
+    text-align: center;
+
+}
+
+a{
+    border-radius: 3px;
+    outline:1px solid #696969;
+    outline-offset: 10px;
+    color: black;
+    text-decoration: none;
+    margin: 15px;
+}
+
+#home{
+    text-decoration: overline;
+}
+
+hr{
+    margin-top: 35px;
+    border-color: #696969;
+    width: 1200px;
+}
+main{
+    display: inline;
+    
+}
+div{
+    display: flex;
+    object-position: center;
+    justify-content: center;
+    text-align: justify;
+}
+#text{
+    width: 1200px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+img{
+    margin-top: 20px;
+    width: 400px;
+    height: auto;
+}
+
+footer{
+    text-align: right;
+    margin-right: 100px;
+}
